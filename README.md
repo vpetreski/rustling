@@ -1,2 +1,3 @@
-# rustling
+# Rustling 🦀
+
 Rust Playground
